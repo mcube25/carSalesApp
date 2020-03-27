@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "ng-course-recipe-book-65f10"
+    "default": "ng-course-recipe-book-65f10",
+    "public": "carsapp-61a74",
+    "dist/ng-complete-guide-update": "carsapp-61a74"
   }
 }
